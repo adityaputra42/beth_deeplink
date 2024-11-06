@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bethscan.io",
+      "sha256_cert_fingerprints":
+      ["E6:C1:CC:C9:9C:20:72:51:5F:58:3A:2D:2E:2B:D8:2D:1E:9A:FD:35:B0:CA:18:14:23:0B:F6:08:D9:67:76:FE"]
+    }
+  }]
