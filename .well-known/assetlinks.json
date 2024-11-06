@@ -2,8 +2,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.bethscan.io",
+      "package_name": "com.example.deeplink_test",
       "sha256_cert_fingerprints":
-      ["B2:eb:B2:c0:67:4f:AB:2d:AD:2f:EF:15:3A:eb:52:89:7D:5d:0F:97:C2:9f:D0:24:4A:49:3D:98:B0:ff:B7:A6"]
+      ["2A:7D:91:43:4F:68:C3:4F:F8:C2:7E:E0:EE:61:81:CD:BD:E7:9E:D5:3C:58:36:70:39:57:E7:0D:66:A1:FE:CA"]
     }
   }]
