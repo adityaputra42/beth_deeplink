@@ -2,8 +2,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.bethscan.io",
+      "package_name": "com.evozchain.io",
       "sha256_cert_fingerprints":
-      ["B2:eb:B2:c0:67:4f:AB:2d:AD:2f:EF:15:3A:eb:52:89:7D:5d:0F:97:C2:9f:D0:24:4A:49:3D:98:B0:ff:B7:A6"]
+      ["A0:03:47:6C:C3:58:63:F7:BC:C2:3E:29:44:AD:FC:6B:C1:23:44:5F:F4:30:0D:7B:03:9C:77:D1:23:10:7F:A0"]
     }
   }]
